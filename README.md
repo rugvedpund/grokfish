@@ -9,6 +9,7 @@ Uses Stockfish's default piece square table to assign a score to the position.
 This should be helpful to people trying to understand how much of the fish's evaluation comes from its PST
 
 Examples:
+
 ![image](https://github.com/rugvedpund/grokfish/assets/72617859/1901199c-8778-4c0e-8c33-9f28b752aed2)
 ![image](https://github.com/rugvedpund/grokfish/assets/72617859/fd969731-584e-4c38-9c86-82eb8c1663e7)
 
